@@ -1,7 +1,7 @@
-## Infinity Scholars (Online Education Website Website)
+## Infinity Scholars (Online Education Website)
 An educational website for students and programmers 😊😊😊  
 
-![]("20221201_225852.png")
+![](20221201_225852.png)
 
 Try this out::  
 https://github.com/VIKASRAPARTHI/Online-Education-Website-Project
